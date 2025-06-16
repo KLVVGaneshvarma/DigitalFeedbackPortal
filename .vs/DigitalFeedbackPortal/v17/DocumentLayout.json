@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\New folder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\utilities\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\utilities\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\LENOVO\\Downloads\\New folder\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\services\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\services\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\services\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\models\\feedbackentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\models\\feedbackentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\models\\feedbackentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\lenovo\\downloads\\new folder\\digitalfeedbackportal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|c:\\users\\karri\\source\\repos\\c# methods (functions)\\day14\\digitalfeedbackportal\\digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BA822C-DE98-4E18-A0F8-41652468A488}|DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +47,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sample2.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Utilities\\Sample2.cs",
-              "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Utilities\\Sample2.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Utilities\\Sample2.cs",
-              "RelativeToolTip": "DigitalFeedbackPortal\\Utilities\\Sample2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T12:01:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Utilities\\Logger.cs",
+              "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Utilities\\Logger.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Utilities\\Logger.cs",
+              "RelativeToolTip": "DigitalFeedbackPortal\\Utilities\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T10:16:11.196Z",
               "EditorCaption": ""
@@ -57,35 +74,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sample.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Services\\Sample.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Services\\Sample.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Services\\Sample.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Services\\Sample.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Services\\Sample.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Services\\Sample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T10:15:53.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FeedbackEntry.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Models\\FeedbackEntry.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:16:47.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:16:47.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Category.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Category.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Admin.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Models\\Admin.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,11 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Models\\Employee.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,15 +133,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Program.cs",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal\\Program.cs",
-              "ToolTip": "C:\\Users\\karri\\source\\repos\\C# methods (functions)\\day14\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\New folder\\DigitalFeedbackPortal\\Program.cs",
               "RelativeToolTip": "DigitalFeedbackPortal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:04:14.28Z"
+              "WhenOpened": "2025-06-16T07:04:14.28Z",
+              "EditorCaption": ""
             }
           ]
         }

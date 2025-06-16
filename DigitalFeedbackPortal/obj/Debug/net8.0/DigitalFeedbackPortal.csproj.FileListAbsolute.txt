@@ -12,3 +12,18 @@ C:\Users\karri\source\repos\C# methods (functions)\day14\DigitalFeedbackPortal\D
 C:\Users\karri\source\repos\C# methods (functions)\day14\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
 C:\Users\karri\source\repos\C# methods (functions)\day14\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
 C:\Users\karri\source\repos\C# methods (functions)\day14\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.exe
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.deps.json
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.runtimeconfig.json
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.sourcelink.json
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\refint\DigitalFeedbackPortal.dll
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
