@@ -27,3 +27,8 @@ C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\refi
 C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
 C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
 C:\Users\LENOVO\Downloads\New folder\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
+C:\Users\koush\Desktop\sprint-1\cloned\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koush\Desktop\sprint-1\cloned\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfoInputs.cache
+C:\Users\koush\Desktop\sprint-1\cloned\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfo.cs
+C:\Users\koush\Desktop\sprint-1\cloned\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\Users\koush\Desktop\sprint-1\cloned\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.sourcelink.json
