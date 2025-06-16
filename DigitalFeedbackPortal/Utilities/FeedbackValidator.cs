@@ -6,8 +6,9 @@ namespace DigitalFeedbackPortal.Utilities
     {
         public static bool IsValid(FeedbackEntry entry)
         {
-            return !string.IsNullOrWhiteSpace(entry.EmployeeName)
-                && !string.IsNullOrWhiteSpace(entry.Message)
+            return entry.SubmittedBy != null
+                && !string.IsNullOrWhiteSpace(entry.SubmittedBy.Name) // Assuming 'Name' is a property of 'Employee'
+                && !string.IsNullOrWhiteSpace(entry.Content)
                 && Enum.IsDefined(typeof(Category), entry.Category);
         }
     }

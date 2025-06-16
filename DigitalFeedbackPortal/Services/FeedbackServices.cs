@@ -3,11 +3,11 @@ using DigitalFeedbackPortal.Utilities;
 
 namespace DigitalFeedbackPortal.Services
 {
-    public static class FeedbackService
+    public  class FeedbackService
     {
         private static readonly string FilePath = "feedback.txt";
 
-        public static async Task SubmitFeedbackAsync(FeedbackEntry entry)
+        public  async Task SubmitFeedbackAsync(FeedbackEntry entry)
         {
             if (!FeedbackValidator.IsValid(entry))
                 throw new ArgumentException("Invalid Feedback Entry.");
