@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalFeedbackPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2852d31851b54414e1bf02bc961332da3a3db4e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalFeedbackPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalFeedbackPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
